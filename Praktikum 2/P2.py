@@ -100,10 +100,11 @@ def main():
 
     while True:
         print("\n===MENU DATA MAHASISWA==")
+        print("0. Program Selesai")
         print("1. Tampilkan data mahasiswa")
-        print("1. Tampilkan data mahasiswa")
-        print("1. Tampilkan data mahasiswa")
-        print("1. Tampilkan data mahasiswa")
+        print("2. Cari data mahasiswa")
+        print("3. Ubah data mahasiswa")
+        print("4. Simpan data mahasiswa")
 
 
 
