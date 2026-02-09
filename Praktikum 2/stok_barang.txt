@@ -1,0 +1,7 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Permen,20
+BRG005,Kopi,15
+BRG006,MieAyam,10
+BRG007,Permen,8
